@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: math, logic
----
+
 
 # Grains
 
